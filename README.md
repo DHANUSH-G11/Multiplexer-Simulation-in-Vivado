@@ -100,7 +100,8 @@ endmodule
 
 ## Sample Output
 
-![WhatsApp Image 2024-09-25 at 16 11 16_00bb5146](https://github.com/user-attachments/assets/a08cd352-b55b-4dd4-8fc9-8ce4174910f2)
+![image](https://github.com/user-attachments/assets/f8fdd54c-cddb-44b0-bbec-3d79f9c48ca4)
+
 
 ## Conclusion:
 

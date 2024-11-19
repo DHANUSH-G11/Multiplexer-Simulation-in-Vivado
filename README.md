@@ -60,7 +60,7 @@ Once done, close the simulation by going to Simulation → "Close Simulation".
 ![image](https://github.com/user-attachments/assets/c850506c-3f6e-4d6b-8574-939a914b2a5f)
 
 ## Verilog Code
-~~
+~
  module mux4_1(i,s,y); input [3:0]i;
 input[1:0]s;
 output reg y;
